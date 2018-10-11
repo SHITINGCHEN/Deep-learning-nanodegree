@@ -7,7 +7,7 @@ In this project, you’re going to take a peek into the realm of neural network 
 ## Environment & Tools
 
 * [Anaconda Python3 version](https://www.anaconda.com/download/#macos) 
-* [jupyter notebbok](http://jupyter.org/install)
+* [jupyter notebook](http://jupyter.org/install)
 * create environment (in MacOS and linux):
 	
 	Using the same environment as [tv-script-generation](https://github.com/SHITINGCHEN/Deep-learning-nanodegree/blob/master/tv-script-generation/README.MD) 
