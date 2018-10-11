@@ -1,4 +1,4 @@
-# Image classification project on Udacity deep learning nanodegree
+# TV script generation project on Udacity deep learning nanodegree
 
 ## Introduction
 
