@@ -7,7 +7,7 @@ In this project, you'll classify images from the [CIFAR-10 dataset](https://www.
 ## Environment & Tools
 
 * [Anaconda Python3 version](https://www.anaconda.com/download/#macos) 
-* [jupyter notebbok](http://jupyter.org/install)
+* [jupyter notebook](http://jupyter.org/install)
 * create environment (in MacOS and linux):
 
 	`cd` to the directory of `environment.yml` and type the following line in your terminal:
